@@ -1,0 +1,5 @@
+h1. Patterns playground
+
+After years of avoiding patterns in favour of tdd I tought was good to read again the go4 book.
+
+The code is just a java implementation of the catalog of patterns from the book.
